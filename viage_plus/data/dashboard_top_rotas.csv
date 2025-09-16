@@ -1,0 +1,43 @@
+cidade_origem,destino,pesquisas
+Belo Horizonte,Campinas,56
+Belo Horizonte,Curitiba,51
+Belo Horizonte,Florianópolis,61
+Belo Horizonte,Porto Alegre,67
+Belo Horizonte,Rio de Janeiro,60
+Belo Horizonte,São Paulo,52
+Campinas,Belo Horizonte,55
+Campinas,Curitiba,58
+Campinas,Florianópolis,68
+Campinas,Porto Alegre,54
+Campinas,Rio de Janeiro,50
+Campinas,São Paulo,69
+Curitiba,Belo Horizonte,58
+Curitiba,Campinas,72
+Curitiba,Florianópolis,52
+Curitiba,Porto Alegre,67
+Curitiba,Rio de Janeiro,51
+Curitiba,São Paulo,55
+Florianópolis,Belo Horizonte,57
+Florianópolis,Campinas,60
+Florianópolis,Curitiba,47
+Florianópolis,Porto Alegre,72
+Florianópolis,Rio de Janeiro,75
+Florianópolis,São Paulo,64
+Porto Alegre,Belo Horizonte,65
+Porto Alegre,Campinas,51
+Porto Alegre,Curitiba,53
+Porto Alegre,Florianópolis,57
+Porto Alegre,Rio de Janeiro,63
+Porto Alegre,São Paulo,53
+Rio de Janeiro,Belo Horizonte,60
+Rio de Janeiro,Campinas,55
+Rio de Janeiro,Curitiba,64
+Rio de Janeiro,Florianópolis,77
+Rio de Janeiro,Porto Alegre,64
+Rio de Janeiro,São Paulo,62
+São Paulo,Belo Horizonte,56
+São Paulo,Campinas,50
+São Paulo,Curitiba,53
+São Paulo,Florianópolis,57
+São Paulo,Porto Alegre,61
+São Paulo,Rio de Janeiro,68
